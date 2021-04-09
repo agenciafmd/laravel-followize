@@ -1,0 +1,32 @@
+{
+    "name": "agenciafmd/laravel-followize",
+    "description": "Integração com a Followize",
+    "homepage": "https://github.com/agenciafmd/laravel-followize",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Seiji",
+            "email": "carlos@fmd.ag",
+            "homepage": "https://fmd.ag/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "laravel/framework": "6.*|7.*|8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Agenciafmd\\Followize\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Agenciafmd\\Followize\\Providers\\FollowizeServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
