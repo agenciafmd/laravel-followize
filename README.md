@@ -2,7 +2,7 @@
 
 [![Licença](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-- Envia as conversões para o RD Station
+- Envia as conversões para o Followize
 
 ## Instalação
 
