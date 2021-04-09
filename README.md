@@ -1,5 +1,5 @@
 ## Laravel - Followize
-
+[![Downloads](https://img.shields.io/packagist/dt/agenciafmd/laravel-followize.svg?style=flat-square)](https://packagist.org/packages/agenciafmd/laravel-followize)
 [![Licença](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 - Envia as conversões para o Followize
